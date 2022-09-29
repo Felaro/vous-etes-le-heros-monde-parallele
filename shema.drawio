@@ -1,0 +1,159 @@
+<mxfile host="65bd71144e">
+    <diagram id="uSxqgwWRRbL6vHH_WHT8" name="Page-1">
+        <mxGraphModel dx="1758" dy="1150" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="69" style="edgeStyle=none;html=1;entryX=0.5;entryY=0.025;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="2" target="11" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="2" value="&lt;font color=&quot;#000000&quot;&gt;Vous êtes&amp;nbsp;dans un monde parallèle. Vous commencez à marcher et vous voyez une crevasse.&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1">
+                    <mxGeometry x="354" y="10" width="120" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="10" value="" style="edgeStyle=none;html=1;fontColor=#FFFFFF;" parent="1" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="413.9999999999998" y="310" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="14" value="" style="edgeStyle=none;html=1;fontColor=#000000;" parent="1" source="11" target="13" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="18" value="Contourner" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#000000;labelBackgroundColor=#FFFFFF;" parent="14" vertex="1" connectable="0">
+                    <mxGeometry x="-0.1573" relative="1" as="geometry">
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="16" value="&lt;span style=&quot;background-color: rgb(255 , 255 , 255)&quot;&gt;Sauter&lt;/span&gt;" style="edgeStyle=none;html=1;fontColor=#000000;" parent="1" source="11" target="15" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="11" value="&lt;font color=&quot;#000000&quot;&gt;Sauter ou contourner&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#FFFFFF;rounded=1;" parent="1" vertex="1">
+                    <mxGeometry x="366" y="130" width="96" height="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="58" value="&lt;span style=&quot;background-color: rgb(255 , 255 , 255)&quot;&gt;Mort&lt;/span&gt;" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontColor=#000000;" parent="1" source="13" target="2" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="760" y="180"/>
+                            <mxPoint x="760" y="45"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="13" value="&lt;font color=&quot;#000000&quot;&gt;En contournant la crevasse, une créature vous attaque et vous dévore.&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=#FFFFFF;rounded=1;" parent="1" vertex="1">
+                    <mxGeometry x="600" y="150" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="23" value="" style="edgeStyle=none;html=1;fontColor=#000000;" parent="1" source="15" target="22" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="15" value="&lt;font color=&quot;#000000&quot;&gt;Vous courez, puis sauter de l'autre côté de la crevasse. Vous continuer à marcher et vous rencontrez une créature agressive.&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=#FFFFFF;rounded=1;" parent="1" vertex="1">
+                    <mxGeometry x="354" y="320" width="120" height="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="27" value="" style="edgeStyle=none;html=1;fontColor=#000000;" parent="1" source="22" target="26" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="29" value="Sauter" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#000000;labelBackgroundColor=#FFFFFF;" parent="27" vertex="1" connectable="0">
+                    <mxGeometry x="-0.1927" y="-2" relative="1" as="geometry">
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="70" value="&lt;span style=&quot;background-color: rgb(255 , 255 , 255)&quot;&gt;Fuir&lt;/span&gt;" style="edgeStyle=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#000000;" parent="1" source="22" target="24" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="22" value="&lt;font color=&quot;#000000&quot;&gt;Sauter ou fuir&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#FFFFFF;rounded=1;" parent="1" vertex="1">
+                    <mxGeometry x="361" y="480" width="106" height="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="96" style="edgeStyle=none;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontColor=#000000;" parent="1" source="24" target="2" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="760" y="540"/>
+                            <mxPoint x="760" y="45"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="24" value="&lt;font color=&quot;#000000&quot;&gt;Vous fuyez à toute vitesse. Malheureusement, cela ne suffira pas. La bestiole vous rattrappe et vous tue.&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=#FFFFFF;rounded=1;" parent="1" vertex="1">
+                    <mxGeometry x="520" y="495" width="120" height="90" as="geometry"/>
+                </mxCell>
+                <mxCell id="45" value="" style="edgeStyle=none;html=1;fontColor=#000000;" parent="1" source="26" target="44" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="26" value="&lt;font color=&quot;#000000&quot;&gt;En sautant sur le monstre, vous récupérez une clé verte.&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0)&quot;&gt;Après quelques minutes, vous apercevez un homme-champignon. Il vous propose d'échanger votre clé verte contre une clé rouge&lt;/span&gt;" style="whiteSpace=wrap;html=1;fillColor=#FFFFFF;rounded=1;" parent="1" vertex="1">
+                    <mxGeometry x="354" y="650" width="120" height="160" as="geometry"/>
+                </mxCell>
+                <mxCell id="37" value="" style="edgeStyle=none;html=1;fontColor=#000000;" parent="1" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="909.5447215652548" y="528.7156256718986" as="sourcePoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="76" value="" style="edgeStyle=none;html=1;fontColor=#FFFFFF;" parent="1" source="44" target="75" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="44" value="&lt;font color=&quot;#000000&quot;&gt;Accepter ou refuser la proposition ?&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#FFFFFF;rounded=1;" parent="1" vertex="1">
+                    <mxGeometry x="366" y="830" width="96" height="150" as="geometry"/>
+                </mxCell>
+                <mxCell id="62" value="&lt;b&gt;Genre:&lt;/b&gt; Énigme&lt;br&gt;&lt;b&gt;Inspiration:&lt;/b&gt; Mario Bros&lt;br&gt;&lt;b&gt;Nom: &lt;/b&gt;Monde parallèle&lt;br&gt;&lt;b&gt;Couleur:&amp;nbsp;&lt;/b&gt;https://coolors.co/01e700-007944-000000-0006e7-00e7e2" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;" parent="1" vertex="1">
+                    <mxGeometry y="30" width="160" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="78" value="" style="edgeStyle=none;html=1;fontColor=#000000;" parent="1" source="75" target="77" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="75" value="&lt;font color=&quot;#000000&quot;&gt;Vous continuer à marcher. Après quelques minutes, vous apercevez une grotte. Vous entrez dans la grotte et voyez que la grotte possède deux chemins différents.&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=#FFFFFF;rounded=1;" parent="1" vertex="1">
+                    <mxGeometry x="354" y="1000" width="120" height="130" as="geometry"/>
+                </mxCell>
+                <mxCell id="80" value="&lt;span style=&quot;background-color: rgb(255 , 255 , 255)&quot;&gt;Gauche&lt;/span&gt;" style="edgeStyle=none;html=1;fontColor=#000000;" parent="1" source="77" target="79" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="82" value="&lt;span style=&quot;background-color: rgb(255 , 255 , 255)&quot;&gt;Droite&lt;/span&gt;" style="edgeStyle=none;html=1;fontColor=#000000;" parent="1" source="77" target="81" edge="1">
+                    <mxGeometry x="-0.5385" relative="1" as="geometry">
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="77" value="&lt;font color=&quot;#000000&quot;&gt;Chemin de droite ou de gauche ?&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#FFFFFF;rounded=1;" parent="1" vertex="1">
+                    <mxGeometry x="371" y="1160" width="86" height="101" as="geometry"/>
+                </mxCell>
+                <mxCell id="95" style="edgeStyle=none;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontColor=#000000;" parent="1" source="79" target="2" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="760" y="1211"/>
+                            <mxPoint x="760" y="45"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="79" value="&lt;font color=&quot;#000000&quot;&gt;Vous continuer dans le chemin de gauche. En marchant, vous arrivez à la fin du tunnel,&amp;nbsp;&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=#FFFFFF;rounded=1;" parent="1" vertex="1">
+                    <mxGeometry x="520" y="1175.75" width="120" height="69.5" as="geometry"/>
+                </mxCell>
+                <mxCell id="86" value="" style="edgeStyle=none;html=1;fontColor=#000000;" parent="1" source="81" target="85" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="81" value="&lt;font color=&quot;#000000&quot;&gt;Vous continuer dans le chemin de droite. Vous apercevez une lueur verte au bout du chemin. Une fois arrivée, vous découvrez une porte en fer.&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=#FFFFFF;rounded=1;" parent="1" vertex="1">
+                    <mxGeometry x="354" y="1300" width="120" height="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="88" value="&lt;span style=&quot;background-color: rgb(255 , 255 , 255)&quot;&gt;Non&lt;/span&gt;" style="edgeStyle=none;html=1;fontColor=#000000;" parent="1" source="85" target="87" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="90" value="" style="edgeStyle=none;html=1;fontColor=#000000;" parent="1" source="85" target="89" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="91" value="&lt;font&gt;Oui&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#000000;labelBackgroundColor=#FFFFFF;" parent="90" vertex="1" connectable="0">
+                    <mxGeometry x="-0.3175" relative="1" as="geometry">
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="85" value="&lt;font color=&quot;#000000&quot;&gt;Avez-vous la clé verte ?&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#FFFFFF;rounded=1;" parent="1" vertex="1">
+                    <mxGeometry x="371" y="1450" width="86" height="90" as="geometry"/>
+                </mxCell>
+                <mxCell id="94" style="edgeStyle=none;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontColor=#000000;" parent="1" source="87" target="2" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="760" y="1495"/>
+                            <mxPoint x="760" y="45"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="87" value="&lt;font color=&quot;#000000&quot;&gt;Vous tentez d'ouvrir la porte avec beaucoup de force. Malheureusement, vous attirez une monstre qui vous saute dessus et vous dévore.&amp;nbsp;&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=#FFFFFF;rounded=1;" parent="1" vertex="1">
+                    <mxGeometry x="520" y="1432.5" width="120" height="125" as="geometry"/>
+                </mxCell>
+                <mxCell id="89" value="&lt;font color=&quot;#000000&quot;&gt;Vous insérez la clé et débarrer la porte. En ouvrant la porte, une lumière blanche vous&amp;nbsp; aveugle. Vous êtes&amp;nbsp;arrivé au paradis.&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=#FFFFFF;rounded=1;" parent="1" vertex="1">
+                    <mxGeometry x="354" y="1580" width="120" height="100" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
