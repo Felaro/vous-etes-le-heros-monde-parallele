@@ -7,7 +7,7 @@
 **Inspiration:** [Mario Bros](https://en.wikipedia.org/wiki/Mario_Bros.)
 
 **Palette de couleurs:** https://coolors.co/01e700-007944-000000-0006e7-00e7e2
-# Diagramme
+# Schéma
 
 ![Schéma](assets/schema.png)
 
