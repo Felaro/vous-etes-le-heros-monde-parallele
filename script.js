@@ -56,7 +56,7 @@ function goToChapter (chapterName) {
     document.querySelector("case").innerHTML='';
     for(i in chaptersObj[chapterName].option){
         const buttons = document.createElement('button');
-        buttons.setAttributeNS('class', 'choix');
+        buttons.setAttributeNS('class', 'case');
         buttons.setAttribute("onclick", chaptersObj[chapterName].option[i].action);
         const node =document.createTextNode(
             chaptersObj[chapterName].option[i].texte
